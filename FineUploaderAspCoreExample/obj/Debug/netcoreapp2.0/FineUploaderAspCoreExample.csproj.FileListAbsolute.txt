@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\FineUploaderAspCoreExample\FineUploaderAspCoreExample\bin\Debug\netcoreapp2.0\FineUploaderAspCoreExample.deps.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\FineUploaderAspCoreExample\FineUploaderAspCoreExample\bin\Debug\netcoreapp2.0\FineUploaderAspCoreExample.runtimeconfig.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\FineUploaderAspCoreExample\FineUploaderAspCoreExample\bin\Debug\netcoreapp2.0\FineUploaderAspCoreExample.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\FineUploaderAspCoreExample\FineUploaderAspCoreExample\bin\Debug\netcoreapp2.0\FineUploaderAspCoreExample.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\FineUploaderAspCoreExample\FineUploaderAspCoreExample\bin\Debug\netcoreapp2.0\FineUploaderAspCoreExample.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\FineUploaderAspCoreExample\FineUploaderAspCoreExample\obj\Debug\netcoreapp2.0\FineUploaderAspCoreExample.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\FineUploaderAspCoreExample\FineUploaderAspCoreExample\obj\Debug\netcoreapp2.0\FineUploaderAspCoreExample.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\FineUploaderAspCoreExample\FineUploaderAspCoreExample\obj\Debug\netcoreapp2.0\FineUploaderAspCoreExample.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\FineUploaderAspCoreExample\FineUploaderAspCoreExample\obj\Debug\netcoreapp2.0\FineUploaderAspCoreExample.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\FineUploaderAspCoreExample\FineUploaderAspCoreExample\obj\Debug\netcoreapp2.0\FineUploaderAspCoreExample.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\FineUploaderAspCoreExample\FineUploaderAspCoreExample\obj\Debug\netcoreapp2.0\FineUploaderAspCoreExample.pdb
